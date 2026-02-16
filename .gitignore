@@ -1,0 +1,12 @@
+# Secrets
+.env
+
+# Virtual environment
+.venv/
+
+# Temp Excel lock files
+~$*
+
+# Presentation and images
+Picture1.png
+go_analytics.pptx
